@@ -1,0 +1,39 @@
+this is a Lobrary Management python oop based project.At first you run this project in any
+python supported code editor.
+Then You can look on the console there are 2 option on your screen.
+
+1.Create Account.
+2.Login To Account.
+(
+	Please Login or cread account (L/C)
+	Enter C/L:
+)
+
+If any one want to  Creat Account.he/she press " c " on kye board
+after pressing " c " he/she look these option
+
+Name: 
+Roll: 
+Password:
+
+after creating account he/she look this 7 option on his/her screen.
+
+1.Borrow a book
+2.Returne a book
+3.Borrowe boos list
+4.Return books list
+5.Check Available
+6.Donate book
+7.Logout
+Give option:
+
+Now he choose any what he wants.
+he can Borrow book on option 1.
+can return Book on option 2.
+can see Borrow Book List on option 3.
+can Return Book List on option 4.
+check avableable books on option 5.
+Donate Book on option 6.
+atlast he or she Log out on option 7.
+
+Then he/she Explore these option and so on
